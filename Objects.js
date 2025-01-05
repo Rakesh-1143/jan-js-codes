@@ -3,6 +3,7 @@
 //1.Json object{key:valuepair}
 //Array Object [ele1,ele2,...]
 //3.Functions
+
 const s1={
     Name:"Rakesh",
     Age:24,
@@ -21,3 +22,4 @@ const s1={
 }
 console.log("name of student:",s1.Name,typeof s1)
 console.log("Percentage of marks",s1.percentage)
+s1.performance()

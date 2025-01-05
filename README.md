@@ -5,8 +5,6 @@
 
 ## Overview
 This document outlines key topics in JavaScript that are essential for web development. These topics range from basic syntax to advanced features that help build dynamic, interactive applications.
-
-
 ## Topics in JavaScript
 
 ### 1. Basics of JavaScript
